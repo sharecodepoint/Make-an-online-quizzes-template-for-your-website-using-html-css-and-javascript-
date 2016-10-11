@@ -1,0 +1,2 @@
+# Make-an-online-quizzes-template-for-your-website-using-html-css-and-javascript-
+In this tutorial will show you how to make a quick and easy html , css with a more then less use Javascript. There so many website to provide the online quizzes code but that code very difficult to understand and to difficult to implements. But know you can make online quizzes with help of simple tags of html , css and a bit of javascript.
